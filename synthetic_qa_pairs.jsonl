@@ -1,0 +1,500 @@
+{"synthetic_id":"s001","query":"کووڈ-19 کی علامات میں کون سی چیزیں عام ہیں؟","positive_id":"p0001","source":"synthetic_v2"}
+{"synthetic_id":"s002","query":"rRT-PCR ٹیسٹ کیا ہے اور کب استعمال ہوتا ہے؟","positive_id":"p0002","source":"synthetic_v2"}
+{"synthetic_id":"s003","query":"ہاتھ دھونے کا درست طریقہ کیا ہے؟","positive_id":"p0003","source":"synthetic_v2"}
+{"synthetic_id":"s004","query":"ماسک کب اور کیوں پہننا چاہیے؟","positive_id":"p0004","source":"synthetic_v2"}
+{"synthetic_id":"s005","query":"سماجی فاصلہ رکھنے کے عملی طریقے کیا ہیں؟","positive_id":"p0005","source":"synthetic_v2"}
+{"synthetic_id":"s006","query":"شدید کووڈ-19 کے مریضوں کے لیے کون سی طبی سہولتیں ضروری ہیں؟","positive_id":"p0006","source":"synthetic_v2"}
+{"synthetic_id":"s007","query":"ویکسین کا بنیادی مقصد کیا ہوتا ہے؟","positive_id":"p0007","source":"synthetic_v2"}
+{"synthetic_id":"s008","query":"ویکسین کے عام مضر اثرات کیا ہو سکتے ہیں؟","positive_id":"p0008","source":"synthetic_v2"}
+{"synthetic_id":"s009","query":"WHO ویکسین کے بارے میں کیا مشورہ دیتا ہے؟","positive_id":"p0009","source":"synthetic_v2"}
+{"synthetic_id":"s010","query":"کووڈ-19 کے ویرینٹس کی مثالیں بتائیں۔","positive_id":"p0010","source":"synthetic_v2"}
+{"synthetic_id":"s011","query":"بوسٹر خوراک کا مقصد کیا ہے؟","positive_id":"p0011","source":"synthetic_v2"}
+{"synthetic_id":"s012","query":"ہسپتال میں مریض کی نگرانی میں کن چیزوں کو دیکھا جاتا ہے؟","positive_id":"p0014","source":"synthetic_v2"}
+{"synthetic_id":"s013","query":"اینٹی وائرل ادویات کب مفید ثابت ہو سکتی ہیں؟","positive_id":"p0013","source":"synthetic_v2"}
+{"synthetic_id":"s014","query":"قرنطینہ اور آئسولیشن میں بنیادی فرق کیا ہے؟","positive_id":"p0015","source":"synthetic_v2"}
+{"synthetic_id":"s015","query":"آن لائن تعلیم وبا کے دوران کیسے متعارف ہوئی؟","positive_id":"p0016","source":"synthetic_v2"}
+{"synthetic_id":"s016","query":"وبا کے دوران ذہنی صحت کے لیے کون سی خدمات مفید ہیں؟","positive_id":"p0017","source":"synthetic_v2"}
+{"synthetic_id":"s017","query":"اینٹیجن ٹیسٹ اور PCR ٹیسٹ میں کون سا زیادہ درست ہے؟","positive_id":"p0018","source":"synthetic_v2"}
+{"synthetic_id":"s018","query":"خطرہ والے گروپس کون سے ہیں؟","positive_id":"p0019","source":"synthetic_v2"}
+{"synthetic_id":"s019","query":"اندرونی جگہوں میں وینٹیلیشن کیوں ضروری ہے؟","positive_id":"p0020","source":"synthetic_v2"}
+{"synthetic_id":"s020","query":"Long COVID کی عام علامات کیا ہیں؟","positive_id":"p0021","source":"synthetic_v2"}
+{"synthetic_id":"s021","query":"ویکسین اسٹوریج کے لیے کیا ضروری ہے؟","positive_id":"p0022","source":"synthetic_v2"}
+{"synthetic_id":"s022","query":"حاملہ خواتین کے لیے ویکسین کے بارے میں کیا مشورہ ہے؟","positive_id":"p0023","source":"synthetic_v2"}
+{"synthetic_id":"s023","query":"بچوں میں کووڈ-19 کے خطرات کیا ہیں؟","positive_id":"p0024","source":"synthetic_v2"}
+{"synthetic_id":"s024","query":"ویکسین کی منظوری کا عمل کیسا ہوتا ہے؟","positive_id":"p0025","source":"synthetic_v2"}
+{"synthetic_id":"s025","query":"غلط معلومات ویکسین کی قبولیت کو کیسے متاثر کرتی ہیں؟","positive_id":"p0026","source":"synthetic_v2"}
+{"synthetic_id":"s026","query":"ٹیسٹنگ، ٹریسنگ اور آئسولیشن کے فوائد کیا ہیں؟","positive_id":"p0027","source":"synthetic_v2"}
+{"synthetic_id":"s027","query":"کووڈ-19 بنیادی طور پر کیسے پھیلتا ہے؟","positive_id":"p0028","source":"synthetic_v2"}
+{"synthetic_id":"s028","query":"N95 ماسک کی خصوصیات کیا ہیں؟","positive_id":"p0029","source":"synthetic_v2"}
+{"synthetic_id":"s029","query":"سینٹائزر میں الکوحل کی کتنی مقدار ہونی چاہیے؟","positive_id":"p0030","source":"synthetic_v2"}
+{"synthetic_id":"s030","query":"وبا کے دوران صحت نظام کو کن چیلنجز کا سامنا ہوا؟","positive_id":"p0031","source":"synthetic_v2"}
+{"synthetic_id":"s031","query":"ویکسین افادیت وقت کے ساتھ کیوں کم ہو سکتی ہے؟","positive_id":"p0032","source":"synthetic_v2"}
+{"synthetic_id":"s032","query":"mRNA ویکسین کیا ہے؟","positive_id":"p0033","source":"synthetic_v2"}
+{"synthetic_id":"s033","query":"ویکسینیشن مہمات میں کامیابی کے لیے کیا ضروری ہے؟","positive_id":"p0034","source":"synthetic_v2"}
+{"synthetic_id":"s034","query":"سرحدی پابندیاں وبا کے دوران کب مفید رہیں؟","positive_id":"p0035","source":"synthetic_v2"}
+{"synthetic_id":"s035","query":"کووڈ-19 میں خون جمنے کی پیچیدگیاں کیا ہیں؟","positive_id":"p0036","source":"synthetic_v2"}
+{"synthetic_id":"s036","query":"کمیونٹی لیڈرز ویکسین مہم میں کیسے مدد کر سکتے ہیں؟","positive_id":"p0037","source":"synthetic_v2"}
+{"synthetic_id":"s037","query":"WHO اپڈیٹس کیوں جاری کرتا ہے؟","positive_id":"p0038","source":"synthetic_v2"}
+{"synthetic_id":"s038","query":"ویکسین سائیڈ ایفیکٹس کی نگرانی کیسے کی جاتی ہے؟","positive_id":"p0039","source":"synthetic_v2"}
+{"synthetic_id":"s039","query":"جینیاتی نگرانی کا مقصد کیا ہے؟","positive_id":"p0040","source":"synthetic_v2"}
+{"synthetic_id":"s040","query":"گھر میں آئسولیشن کے دوران کن اصولوں پر عمل کریں؟","positive_id":"p0041","source":"synthetic_v2"}
+{"synthetic_id":"s041","query":"صحت عامہ کے پیغامات کو موثر کیسے بنایا جائے؟","positive_id":"p0042","source":"synthetic_v2"}
+{"synthetic_id":"s042","query":"ویکسین کی منصفانہ تقسیم کیوں ضروری ہے؟","positive_id":"p0043","source":"synthetic_v2"}
+{"synthetic_id":"s043","query":"ریہیب پروگرامز طویل علامات میں کیسے مدد دیتے ہیں؟","positive_id":"p0044","source":"synthetic_v2"}
+{"synthetic_id":"s044","query":"اینٹی باڈی ٹیسٹنگ کے کیا فوائد اور حدود ہیں؟","positive_id":"p0045","source":"synthetic_v2"}
+{"synthetic_id":"s045","query":"ذاتی صفائی اور رویوں کی تبدیلی وبا کنٹرول میں کیوں اہم ہے؟","positive_id":"p0046","source":"synthetic_v2"}
+{"synthetic_id":"s046","query":"علاجی شواہد وقت کے ساتھ کیوں بدلتے ہیں؟","positive_id":"p0047","source":"synthetic_v2"}
+{"synthetic_id":"s047","query":"صحت کارکنان کی حفاظت کے لیے کون سی پالیسیاں ضروری ہیں؟","positive_id":"p0048","source":"synthetic_v2"}
+{"synthetic_id":"s048","query":"آن لائن گمراہ کن معلومات کا مقابلہ کیسے کیا جا سکتا ہے؟","positive_id":"p0049","source":"synthetic_v2"}
+{"synthetic_id":"s049","query":"ویکسینیشن کے بعد حفاظتی اقدامات کب تک جاری رکھیں؟","positive_id":"p0050","source":"synthetic_v2"}
+{"synthetic_id":"s050","query":"مقامی ڈیٹا ویکسین پالیسی میں کیوں اہم ہے؟","positive_id":"p0051","source":"synthetic_v2"}
+{"synthetic_id":"s051","query":"لاجسٹکس میں سردی کے انتظام کا کیا مطلب ہے؟","positive_id":"p0052","source":"synthetic_v2"}
+{"synthetic_id":"s052","query":"کووڈ-19 کے مریضوں کے لیے غذائیت کے مشورے کیا ہیں؟","positive_id":"p0053","source":"synthetic_v2"}
+{"synthetic_id":"s053","query":"وبا کے دوران روزگار کے مسائل کا حل کیا ہو سکتا ہے؟","positive_id":"p0054","source":"synthetic_v2"}
+{"synthetic_id":"s054","query":"کمیونٹی مانیٹرنگ کے بنیادی عناصر کیا ہیں؟","positive_id":"p0055","source":"synthetic_v2"}
+{"synthetic_id":"s055","query":"معلوماتی سیشنز عوامی اعتماد میں کیسے اضافہ کرتے ہیں؟","positive_id":"p0056","source":"synthetic_v2"}
+{"synthetic_id":"s056","query":"سفر سے پہلے کن احتیاطی اقدامات کی ضرورت ہوتی ہے؟","positive_id":"p0057","source":"synthetic_v2"}
+{"synthetic_id":"s057","query":"شفاف ڈیٹا عوامی اعتماد میں کیسے مدد دیتا ہے؟","positive_id":"p0058","source":"synthetic_v2"}
+{"synthetic_id":"s058","query":"تحقیقی اپڈیٹس عام طور پر کس قسم کی معلومات دیتے ہیں؟","positive_id":"p0059","source":"synthetic_v2"}
+{"synthetic_id":"s059","query":"وبائی تیاری کے لیے کون سی پالیسیاں ضروری ہیں؟","positive_id":"p0060","source":"synthetic_v2"}
+{"synthetic_id":"s060","query":"کووڈ-19 کی علامات کب ظاہر ہوتی ہیں؟","positive_id":"p0001","source":"synthetic_v2"}
+{"synthetic_id":"s061","query":"PCR ٹیسٹ کا نتیجہ کب قابلِ اعتماد ہوتا ہے؟","positive_id":"p0002","source":"synthetic_v2"}
+{"synthetic_id":"s062","query":"ہاتھ دھونے کے دوران کون سی غلطیاں عام ہیں؟","positive_id":"p0003","source":"synthetic_v2"}
+{"synthetic_id":"s063","query":"ماسک پہننے میں عام غلطیاں کون سی ہیں؟","positive_id":"p0004","source":"synthetic_v2"}
+{"synthetic_id":"s064","query":"سماجی فاصلہ برقرار رکھنے کے لیے کون سی حکمت عملی مفید ہیں؟","positive_id":"p0005","source":"synthetic_v2"}
+{"synthetic_id":"s065","query":"آکسیجن تھراپی کب ضروری ہوتی ہے؟","positive_id":"p0006","source":"synthetic_v2"}
+{"synthetic_id":"s066","query":"ویکسین کیسے کام کرتی ہیں؟","positive_id":"p0007","source":"synthetic_v2"}
+{"synthetic_id":"s067","query":"ویکسین کے بعد کب ڈاکٹر سے رابطہ کریں؟","positive_id":"p0008","source":"synthetic_v2"}
+{"synthetic_id":"s068","query":"WHO کی ویکسین رہنمائی کہاں مل سکتی ہے؟","positive_id":"p0009","source":"synthetic_v2"}
+{"synthetic_id":"s069","query":"نئے ویرینٹس کی شناخت کا کیا مطلب ہے؟","positive_id":"p0010","source":"synthetic_v2"}
+{"synthetic_id":"s070","query":"بوسٹر خوراک کے ممکنہ فوائد کیا ہیں؟","positive_id":"p0011","source":"synthetic_v2"}
+{"synthetic_id":"s071","query":"مریض کی آکسیجن سطح کی پیمائش کیسے کی جاتی ہے؟","positive_id":"p0014","source":"synthetic_v2"}
+{"synthetic_id":"s072","query":"اینٹی وائرل ادویات کے ممکنہ خطرات کیا ہیں؟","positive_id":"p0013","source":"synthetic_v2"}
+{"synthetic_id":"s073","query":"قرنطینہ کے دوران کن اصولوں پر عمل کریں؟","positive_id":"p0015","source":"synthetic_v2"}
+{"synthetic_id":"s074","query":"آن لائن تعلیم کے فوائد اور نقصانات کیا ہیں؟","positive_id":"p0016","source":"synthetic_v2"}
+{"synthetic_id":"s075","query":"وبا کے دوران ذہنی صحت کے لیے کون سی ہیلپ لائنز مفید ہیں؟","positive_id":"p0017","source":"synthetic_v2"}
+{"synthetic_id":"s076","query":"اینٹیجن ٹیسٹ کب مثبت آ سکتا ہے؟","positive_id":"p0018","source":"synthetic_v2"}
+{"synthetic_id":"s077","query":"خطرہ والے گروپس کو ویکسین کیوں ترجیحی دی جاتی ہے؟","positive_id":"p0019","source":"synthetic_v2"}
+{"synthetic_id":"s078","query":"کھلی ہوا میں وقت گزارنے کے فوائد کیا ہیں؟","positive_id":"p0020","source":"synthetic_v2"}
+{"synthetic_id":"s079","query":"Long COVID کے لیے کن ماہرین سے رجوع کریں؟","positive_id":"p0021","source":"synthetic_v2"}
+{"synthetic_id":"s080","query":"ویکسین اسٹوریج میں درجہ حرارت کا کیا کردار ہے؟","positive_id":"p0022","source":"synthetic_v2"}
+{"synthetic_id":"s081","query":"حاملہ خواتین کے لیے ویکسین کے ممکنہ فوائد کیا ہیں؟","positive_id":"p0023","source":"synthetic_v2"}
+{"synthetic_id":"s082","query":"بچوں کے لیے ویکسین پالیسی کس طرح مختلف ہو سکتی ہے؟","positive_id":"p0024","source":"synthetic_v2"}
+{"synthetic_id":"s083","query":"ویکسین منظوری میں کلینیکل ٹرائلز کا کیا کردار ہے؟","positive_id":"p0025","source":"synthetic_v2"}
+{"synthetic_id":"s084","query":"غلط معلومات کے خلاف کون سی حکمت عملی موثر ہیں؟","positive_id":"p0026","source":"synthetic_v2"}
+{"synthetic_id":"s085","query":"ٹیسٹنگ اور ٹریسنگ کے درمیان کیا فرق ہے؟","positive_id":"p0027","source":"synthetic_v2"}
+{"synthetic_id":"s086","query":"کھانسی کے ذریعے وائرس کتنی دور تک پھیل سکتا ہے؟","positive_id":"p0028","source":"synthetic_v2"}
+{"synthetic_id":"s087","query":"N95 ماسک کب لازمی سمجھا جاتا ہے؟","positive_id":"p0029","source":"synthetic_v2"}
+{"synthetic_id":"s088","query":"سینٹائزر استعمال کرتے وقت کن باتوں کا خیال رکھیں؟","positive_id":"p0030","source":"synthetic_v2"}
+{"synthetic_id":"s089","query":"صحت نظام پر دباؤ کم کرنے کے لیے کیا اقدامات کیے جا سکتے ہیں؟","positive_id":"p0031","source":"synthetic_v2"}
+{"synthetic_id":"s090","query":"بوسٹر خوراک کے شیڈول میں کیا عوامل مدنظر ہوتے ہیں؟","positive_id":"p0032","source":"synthetic_v2"}
+{"synthetic_id":"s091","query":"mRNA ویکسین کے فوائد کیا ہیں؟","positive_id":"p0033","source":"synthetic_v2"}
+{"synthetic_id":"s092","query":"ویکسینیشن مراکز کی دستیابی کیسے بہتر بنائی جا سکتی ہے؟","positive_id":"p0034","source":"synthetic_v2"}
+{"synthetic_id":"s093","query":"سرحدی پابندیوں کے معاشی اثرات کیا ہو سکتے ہیں؟","positive_id":"p0035","source":"synthetic_v2"}
+{"synthetic_id":"s094","query":"خون جمنے کی پیچیدگیوں کی روک تھام کیسے کی جاتی ہے؟","positive_id":"p0036","source":"synthetic_v2"}
+{"synthetic_id":"s095","query":"کمیونٹی لیڈرز کو ویکسین مہم میں کیسے شامل کریں؟","positive_id":"p0037","source":"synthetic_v2"}
+{"synthetic_id":"s096","query":"WHO کی رہنمائی میں کون سی چیزیں شامل ہوتی ہیں؟","positive_id":"p0038","source":"synthetic_v2"}
+{"synthetic_id":"s097","query":"ویکسین سائیڈ ایفیکٹس کی رپورٹ کہاں کی جاتی ہے؟","positive_id":"p0039","source":"synthetic_v2"}
+{"synthetic_id":"s098","query":"جینیاتی نگرانی کے لیے کون سی لیبارٹری تکنیک استعمال ہوتی ہیں؟","positive_id":"p0040","source":"synthetic_v2"}
+{"synthetic_id":"s099","query":"گھر میں آئسولیشن کے دوران صفائی کے کون سے اصول اہم ہیں؟","positive_id":"p0041","source":"synthetic_v2"}
+{"synthetic_id":"s100","query":"صحت عامہ کے پیغامات میں کن عناصر کو شامل کریں؟","positive_id":"p0042","source":"synthetic_v2"}
+{"synthetic_id":"s101","query":"ویکسین کی منصفانہ تقسیم کے لیے کن اداروں کا کردار ہوتا ہے؟","positive_id":"p0043","source":"synthetic_v2"}
+{"synthetic_id":"s102","query":"ریہیب پروگرامز میں کون سی سرگرمیاں شامل ہوتی ہیں؟","positive_id":"p0044","source":"synthetic_v2"}
+{"synthetic_id":"s103","query":"اینٹی باڈی ٹیسٹنگ کے نتائج کی تشریح میں کن باتوں کا خیال رکھیں؟","positive_id":"p0045","source":"synthetic_v2"}
+{"synthetic_id":"s104","query":"ذاتی صفائی کے پیغامات کو کیسے عام کریں؟","positive_id":"p0046","source":"synthetic_v2"}
+{"synthetic_id":"s105","query":"نئے علاجی طریقوں کی جانچ کیسے کی جاتی ہے؟","positive_id":"p0047","source":"synthetic_v2"}
+{"synthetic_id":"s106","query":"صحت کارکنان کے لیے حفاظتی سامان کی اقسام کیا ہیں؟","positive_id":"p0048","source":"synthetic_v2"}
+{"synthetic_id":"s107","query":"آن لائن گمراہ کن معلومات کی شناخت کے لیے کون سے طریقے ہیں؟","positive_id":"p0049","source":"synthetic_v2"}
+{"synthetic_id":"s108","query":"ویکسینیشن کے بعد کب عام سرگرمیاں بحال کی جا سکتی ہیں؟","positive_id":"p0050","source":"synthetic_v2"}
+{"synthetic_id":"s109","query":"مقامی ڈیٹا اکٹھا کرنے کے بہترین طریقے کیا ہیں؟","positive_id":"p0051","source":"synthetic_v2"}
+{"synthetic_id":"s110","query":"ویکسین لاجسٹکس میں سردی کے انتظام کے لیے کون سی ٹیکنالوجی استعمال ہوتی ہے؟","positive_id":"p0052","source":"synthetic_v2"}
+{"synthetic_id":"s111","query":"کووڈ-19 کے مریضوں کے لیے غذائی سپلیمنٹس کا کیا کردار ہے؟","positive_id":"p0053","source":"synthetic_v2"}
+{"synthetic_id":"s112","query":"وبا کے دوران چھوٹے کاروباروں کی مدد کے لیے کیا اقدامات کیے جا سکتے ہیں؟","positive_id":"p0054","source":"synthetic_v2"}
+{"synthetic_id":"s113","query":"کمیونٹی مانیٹرنگ کے لیے کون سی ٹیکنالوجی مفید ہے؟","positive_id":"p0055","source":"synthetic_v2"}
+{"synthetic_id":"s114","query":"معلوماتی سیشنز میں کن موضوعات پر بات کی جانی چاہیے؟","positive_id":"p0056","source":"synthetic_v2"}
+{"synthetic_id":"s115","query":"سفر کے دوران حفاظتی اقدامات میں کیا شامل ہونا چاہیے؟","positive_id":"p0057","source":"synthetic_v2"}
+{"synthetic_id":"s116","query":"شفاف ڈیٹا شیئرنگ کے فوائد کیا ہیں؟","positive_id":"p0058","source":"synthetic_v2"}
+{"synthetic_id":"s117","query":"تحقیقی اپڈیٹس کہاں سے حاصل کریں؟","positive_id":"p0059","source":"synthetic_v2"}
+{"synthetic_id":"s118","query":"وبائی تیاری کے لیے کون سی مشقیں ضروری ہیں؟","positive_id":"p0060","source":"synthetic_v2"}
+{"synthetic_id":"s119","query":"کووڈ-19 کی علامات کی شدت کیسے ماپی جاتی ہے؟","positive_id":"p0001","source":"synthetic_v2"}
+{"synthetic_id":"s120","query":"PCR ٹیسٹ کے لیے نمونہ کب لیا جاتا ہے؟","positive_id":"p0002","source":"synthetic_v2"}
+{"synthetic_id":"s121","query":"ہاتھ دھونے کے لیے کون سا صابن بہتر ہے؟","positive_id":"p0003","source":"synthetic_v2"}
+{"synthetic_id":"s122","query":"ماسک کی مناسب فٹنگ کیسے یقینی بنائیں؟","positive_id":"p0004","source":"synthetic_v2"}
+{"synthetic_id":"s123","query":"سماجی فاصلہ برقرار رکھنے کے لیے عوامی جگہوں میں کیا تبدیلیاں کریں؟","positive_id":"p0005","source":"synthetic_v2"}
+{"synthetic_id":"s124","query":"آکسیجن تھراپی کے دوران مریض کی نگرانی کیسے کی جاتی ہے؟","positive_id":"p0006","source":"synthetic_v2"}
+{"synthetic_id":"s125","query":"ویکسین کے اثرات کو ماپنے کے لیے کون سے اشارے دیکھے جاتے ہیں؟","positive_id":"p0007","source":"synthetic_v2"}
+{"synthetic_id":"s126","query":"ویکسین کے بعد کب طبی مدد لینی چاہیے؟","positive_id":"p0008","source":"synthetic_v2"}
+{"synthetic_id":"s127","query":"WHO کی ویب سائٹ پر ویکسین کی معلومات کہاں ملتی ہے؟","positive_id":"p0009","source":"synthetic_v2"}
+{"synthetic_id":"s128","query":"نئے ویرینٹس کی شناخت کے بعد عوام کو کیا بتائیں؟","positive_id":"p0010","source":"synthetic_v2"}
+{"synthetic_id":"s129","query":"بوسٹر خوراک کے ممکنہ مضر اثرات کیا ہو سکتے ہیں؟","positive_id":"p0011","source":"synthetic_v2"}
+{"synthetic_id":"s130","query":"ہسپتال میں وینٹیلیٹر کب استعمال کیا جاتا ہے؟","positive_id":"p0012","source":"synthetic_v2"}
+{"synthetic_id":"s131","query":"اینٹی وائرل ادویات کے انتخاب میں کیا عوامل مدنظر ہوتے ہیں؟","positive_id":"p0013","source":"synthetic_v2"}
+{"synthetic_id":"s132","query":"قرنطینہ کے دوران خوراک اور صفائی کا کیا انتظام کریں؟","positive_id":"p0015","source":"synthetic_v2"}
+{"synthetic_id":"s133","query":"آن لائن تعلیم کے معیار کو کیسے بہتر بنایا جا سکتا ہے؟","positive_id":"p0016","source":"synthetic_v2"}
+{"synthetic_id":"s134","query":"وبا کے دوران ذہنی صحت کے لیے کون سی کمیونٹی خدمات مفید ہیں؟","positive_id":"p0017","source":"synthetic_v2"}
+{"synthetic_id":"s135","query":"اینٹیجن ٹیسٹ کب منفی مگر انفیکشن ممکن ہوتا ہے؟","positive_id":"p0018","source":"synthetic_v2"}
+{"synthetic_id":"s136","query":"خطرہ والے گروپس کو ویکسین دینے کی ترجیح کیوں دی جاتی ہے؟","positive_id":"p0019","source":"synthetic_v2"}
+{"synthetic_id":"s137","query":"اندرونی جگہوں میں وینٹیلیشن بہتر بنانے کے عملی طریقے کیا ہیں؟","positive_id":"p0020","source":"synthetic_v2"}
+{"synthetic_id":"s138","query":"Long COVID کے مریضوں کے لیے کون سی طبی جانچیں مفید ہیں؟","positive_id":"p0021","source":"synthetic_v2"}
+{"synthetic_id":"s139","query":"ویکسین اسٹوریج میں درجہ حرارت کی نگرانی کیسے کی جاتی ہے؟","positive_id":"p0022","source":"synthetic_v2"}
+{"synthetic_id":"s140","query":"حاملہ خواتین کے لیے ویکسین کے بارے میں کن ماہرین سے مشورہ لیں؟","positive_id":"p0023","source":"synthetic_v2"}
+{"synthetic_id":"s141","query":"بچوں کے لیے ویکسین کی حفاظت کا اندازہ کیسے لگائیں؟","positive_id":"p0024","source":"synthetic_v2"}
+{"synthetic_id":"s142","query":"ویکسین منظوری میں شواہد کی کیا اقسام شامل ہوتی ہیں؟","positive_id":"p0025","source":"synthetic_v2"}
+{"synthetic_id":"s143","query":"غلط معلومات کے خلاف کون سی کمیونیکیشن چینلز موثر ہیں؟","positive_id":"p0026","source":"synthetic_v2"}
+{"synthetic_id":"s144","query":"ٹیسٹنگ اور ٹریسنگ کے لیے کون سی ڈیجیٹل ٹولز مفید ہیں؟","positive_id":"p0027","source":"synthetic_v2"}
+{"synthetic_id":"s145","query":"کھانسی کے ذریعے پھیلاؤ کو کم کرنے کے فوری اقدامات کیا ہیں؟","positive_id":"p0028","source":"synthetic_v2"}
+{"synthetic_id":"s146","query":"N95 ماسک کی مناسب دیکھ بھال کیسے کریں؟","positive_id":"p0029","source":"synthetic_v2"}
+{"synthetic_id":"s147","query":"سینٹائزر کے استعمال میں حفاظت کے کون سے اصول ہیں؟","positive_id":"p0030","source":"synthetic_v2"}
+{"synthetic_id":"s148","query":"صحت نظام کی مضبوطی کے لیے کون سی پالیسیاں ضروری ہیں؟","positive_id":"p0031","source":"synthetic_v2"}
+{"synthetic_id":"s149","query":"بوسٹر خوراک کے شیڈول کا تعین کس طرح ہوتا ہے؟","positive_id":"p0032","source":"synthetic_v2"}
+{"synthetic_id":"s150","query":"mRNA ویکسین کی بنیادی ٹیکنالوجی کیا ہے؟","positive_id":"p0033","source":"synthetic_v2"}
+{"synthetic_id":"s151","query":"ویکسینیشن مراکز تک رسائی بڑھانے کے عملی اقدامات کیا ہیں؟","positive_id":"p0034","source":"synthetic_v2"}
+{"synthetic_id":"s152","query":"سرحدی پابندیوں کے دوران کون سی سماجی مدد درکار ہوتی ہے؟","positive_id":"p0035","source":"synthetic_v2"}
+{"synthetic_id":"s153","query":"خون جمنے کی پیچیدگیوں کی تشخیص کیسے کی جاتی ہے؟","positive_id":"p0036","source":"synthetic_v2"}
+{"synthetic_id":"s154","query":"کمیونٹی لیڈرز کو ویکسین پیغامات کیسے ٹرین کریں؟","positive_id":"p0037","source":"synthetic_v2"}
+{"synthetic_id":"s155","query":"WHO کی رہنمائی میں کن شواہد کو ترجیح دی جاتی ہے؟","positive_id":"p0038","source":"synthetic_v2"}
+{"synthetic_id":"s156","query":"ویکسین سائیڈ ایفیکٹس کی رپورٹنگ کے لیے کون سی ویب پورٹل استعمال ہوتے ہیں؟","positive_id":"p0039","source":"synthetic_v2"}
+{"synthetic_id":"s157","query":"جینیاتی نگرانی کے لیے نمونے کہاں بھیجتے ہیں؟","positive_id":"p0040","source":"synthetic_v2"}
+{"synthetic_id":"s158","query":"گھر میں آئسولیشن کے دوران صفائی کے لیے کون سے مصنوعات استعمال کریں؟","positive_id":"p0041","source":"synthetic_v2"}
+{"synthetic_id":"s159","query":"صحت عامہ کے پیغامات میں کن زبانوں کا استعمال کریں؟","positive_id":"p0042","source":"synthetic_v2"}
+{"synthetic_id":"s160","query":"ویکسین کی منصفانہ تقسیم کے لیے عالمی تعاون کی مثالیں کیا ہیں؟","positive_id":"p0043","source":"synthetic_v2"}
+{"synthetic_id":"s161","query":"ریہیب پروگرامز میں مریض کی پیشرفت کیسے ماپی جاتی ہے؟","positive_id":"p0044","source":"synthetic_v2"}
+{"synthetic_id":"s162","query":"اینٹی باڈی ٹیسٹنگ کے نتائج کب مفید ہوتے ہیں؟","positive_id":"p0045","source":"synthetic_v2"}
+{"synthetic_id":"s163","query":"ذاتی صفائی کے پیغامات کو نوجوانوں تک کیسے پہنچائیں؟","positive_id":"p0046","source":"synthetic_v2"}
+{"synthetic_id":"s164","query":"نئے علاجی طریقوں کی جانچ میں کن اخلاقی اصولوں کا خیال رکھا جاتا ہے؟","positive_id":"p0047","source":"synthetic_v2"}
+{"synthetic_id":"s165","query":"صحت کارکنان کے لیے نفسیاتی مدد کے کون سے ماڈل موثر ہیں؟","positive_id":"p0048","source":"synthetic_v2"}
+{"synthetic_id":"s166","query":"آن لائن گمراہ کن معلومات کی روک تھام میں حکومت کا کیا کردار ہے؟","positive_id":"p0049","source":"synthetic_v2"}
+{"synthetic_id":"s167","query":"ویکسینیشن کے بعد کب عام اجتماعات میں شرکت محفوظ ہے؟","positive_id":"p0050","source":"synthetic_v2"}
+{"synthetic_id":"s168","query":"مقامی ڈیٹا اکٹھا کرنے کے لیے کون سی شراکت داری ضروری ہیں؟","positive_id":"p0051","source":"synthetic_v2"}
+{"synthetic_id":"s169","query":"ویکسین لاجسٹکس میں ٹریننگ کا کیا کردار ہے؟","positive_id":"p0052","source":"synthetic_v2"}
+{"synthetic_id":"s170","query":"کووڈ-19 کے مریضوں کے لیے غذائی سپلیمنٹس کا کیا کردار ہے؟","positive_id":"p0053","source":"synthetic_v2"}
+{"synthetic_id":"s171","query":"وبا کے دوران چھوٹے کاروباروں کی مدد کے لیے کون سے پروگرام مفید ہیں؟","positive_id":"p0054","source":"synthetic_v2"}
+{"synthetic_id":"s172","query":"کمیونٹی مانیٹرنگ میں رضاکاروں کا کیا کردار ہوتا ہے؟","positive_id":"p0055","source":"synthetic_v2"}
+{"synthetic_id":"s173","query":"معلوماتی سیشنز میں سوال و جواب کے سیشن کیسے چلائیں؟","positive_id":"p0056","source":"synthetic_v2"}
+{"synthetic_id":"s174","query":"سفر کے دوران ماسک کے استعمال کے بہترین طریقے کیا ہیں؟","positive_id":"p0057","source":"synthetic_v2"}
+{"synthetic_id":"s175","query":"شفاف ڈیٹا عوامی اعتماد بڑھانے میں کیسے مدد کرتا ہے؟","positive_id":"p0058","source":"synthetic_v2"}
+{"synthetic_id":"s176","query":"تحقیقی اپڈیٹس کو پالیسی میں کیسے شامل کیا جاتا ہے؟","positive_id":"p0059","source":"synthetic_v2"}
+{"synthetic_id":"s177","query":"وبائی تیاری کے لیے مشقیں کس طرح منظم کریں؟","positive_id":"p0060","source":"synthetic_v2"}
+{"synthetic_id":"s178","query":"کووڈ-19 کی علامات کی شدت کو کم کرنے کے گھریلو اقدامات کیا ہیں؟","positive_id":"p0001","source":"synthetic_v2"}
+{"synthetic_id":"s179","query":"PCR ٹیسٹ کے لیے نمونہ کب لیا جاتا ہے؟","positive_id":"p0002","source":"synthetic_v2"}
+{"synthetic_id":"s180","query":"ہاتھ دھونے کے بعد کن چیزوں سے پرہیز کریں؟","positive_id":"p0003","source":"synthetic_v2"}
+{"synthetic_id":"s181","query":"ماسک کو کب تبدیل کرنا چاہیے؟","positive_id":"p0004","source":"synthetic_v2"}
+{"synthetic_id":"s182","query":"سماجی فاصلہ برقرار رکھنے کے لیے مقامی حکمت عملی کیا ہو سکتی ہے؟","positive_id":"p0005","source":"synthetic_v2"}
+{"synthetic_id":"s183","query":"آکسیجن تھراپی کے دوران مریض کی خوراک کا کیا خیال رکھیں؟","positive_id":"p0006","source":"synthetic_v2"}
+{"synthetic_id":"s184","query":"ویکسین کے اثرات کو ماپنے کے لیے کون سی تحقیق کی جاتی ہے؟","positive_id":"p0007","source":"synthetic_v2"}
+{"synthetic_id":"s185","query":"ویکسین کے بعد غیر معمولی علامات پر کیا کریں؟","positive_id":"p0008","source":"synthetic_v2"}
+{"synthetic_id":"s186","query":"WHO کی رہنمائی میں کن موضوعات پر زور ہوتا ہے؟","positive_id":"p0009","source":"synthetic_v2"}
+{"synthetic_id":"s187","query":"نئے ویرینٹس کی شناخت کے بعد کن اداروں کو مطلع کیا جاتا ہے؟","positive_id":"p0010","source":"synthetic_v2"}
+{"synthetic_id":"s188","query":"بوسٹر خوراک کے لیے کون سی آبادی ترجیحی ہوتی ہے؟","positive_id":"p0011","source":"synthetic_v2"}
+{"synthetic_id":"s189","query":"ہسپتال میں مریض کی وینٹیلیشن کی ضرورت کیسے طے کی جاتی ہے؟","positive_id":"p0012","source":"synthetic_v2"}
+{"synthetic_id":"s190","query":"اینٹی وائرل ادویات کے اثرات کی نگرانی کیسے کی جاتی ہے؟","positive_id":"p0013","source":"synthetic_v2"}
+{"synthetic_id":"s191","query":"قرنطینہ کے دوران بچوں کی دیکھ بھال کیسے کریں؟","positive_id":"p0015","source":"synthetic_v2"}
+{"synthetic_id":"s192","query":"آن لائن تعلیم کے لیے کون سی پلیٹ فارم بہتر ہیں؟","positive_id":"p0016","source":"synthetic_v2"}
+{"synthetic_id":"s193","query":"وبا کے دوران ذہنی صحت کے لیے کون سی آن لائن خدمات دستیاب ہیں؟","positive_id":"p0017","source":"synthetic_v2"}
+{"synthetic_id":"s194","query":"اینٹیجن ٹیسٹ کب دوبارہ کروائیں؟","positive_id":"p0018","source":"synthetic_v2"}
+{"synthetic_id":"s195","query":"خطرہ والے گروپس کے لیے ویکسین کی ترجیحی پالیسیاں کیا ہیں؟","positive_id":"p0019","source":"synthetic_v2"}
+{"synthetic_id":"s196","query":"وینٹیلیشن بہتر بنانے کے لیے کون سی سادہ تبدیلیاں کریں؟","positive_id":"p0020","source":"synthetic_v2"}
+{"synthetic_id":"s197","query":"Long COVID کے مریضوں کے لیے کون سی سپورٹ گروپس مفید ہیں؟","positive_id":"p0021","source":"synthetic_v2"}
+{"synthetic_id":"s198","query":"ویکسین اسٹوریج میں ٹریکنگ کیسے کریں؟","positive_id":"p0022","source":"synthetic_v2"}
+{"synthetic_id":"s199","query":"حاملہ خواتین کے لیے ویکسین کے ممکنہ خطرات کیا ہیں؟","positive_id":"p0023","source":"synthetic_v2"}
+{"synthetic_id":"s200","query":"بچوں کے لیے ویکسین کی خوراکیں کس طرح مختلف ہوتی ہیں؟","positive_id":"p0024","source":"synthetic_v2"}
+{"synthetic_id":"s201","query":"ویکسین منظوری کے بعد مانیٹرنگ کیسے کی جاتی ہے؟","positive_id":"p0025","source":"synthetic_v2"}
+{"synthetic_id":"s202","query":"غلط معلومات کے خلاف کون سی کمیونیکیشن حکمت عملی موثر ہیں؟","positive_id":"p0026","source":"synthetic_v2"}
+{"synthetic_id":"s203","query":"ٹیسٹنگ اور ٹریسنگ کے لیے مقامی وسائل کیسے بڑھائیں؟","positive_id":"p0027","source":"synthetic_v2"}
+{"synthetic_id":"s204","query":"کھانسی کے دوران حفاظتی اقدامات کیا کریں؟","positive_id":"p0028","source":"synthetic_v2"}
+{"synthetic_id":"s205","query":"N95 ماسک کی قیمت اور دستیابی کے مسائل کیسے حل کریں؟","positive_id":"p0029","source":"synthetic_v2"}
+{"synthetic_id":"s206","query":"سینٹائزر کے معیار کی جانچ کیسے کریں؟","positive_id":"p0030","source":"synthetic_v2"}
+{"synthetic_id":"s207","query":"صحت نظام کی مضبوطی کے لیے انسانی وسائل کیسے بڑھائیں؟","positive_id":"p0031","source":"synthetic_v2"}
+{"synthetic_id":"s208","query":"بوسٹر خوراک کے اثرات کی تحقیق کیسے کی جاتی ہے؟","positive_id":"p0032","source":"synthetic_v2"}
+{"synthetic_id":"s209","query":"mRNA ویکسین کی حفاظت کے بارے میں عام سوالات کیا ہیں؟","positive_id":"p0033","source":"synthetic_v2"}
+{"synthetic_id":"s210","query":"ویکسینیشن مراکز میں قطار بندی کیسے منظم کریں؟","positive_id":"p0034","source":"synthetic_v2"}
+{"synthetic_id":"s211","query":"سرحدی پابندیوں کے دوران طبی امداد کیسے یقینی بنائیں؟","positive_id":"p0035","source":"synthetic_v2"}
+{"synthetic_id":"s212","query":"خون جمنے کی پیچیدگیوں کی روک تھام میں کون سی ادویات مددگار ہیں؟","positive_id":"p0036","source":"synthetic_v2"}
+{"synthetic_id":"s213","query":"کمیونٹی لیڈرز کو ویکسین کے فوائد کیسے سمجھائیں؟","positive_id":"p0037","source":"synthetic_v2"}
+{"synthetic_id":"s214","query":"WHO کی رہنمائی میں شواہد کی ترجیح کیسے کی جاتی ہے؟","positive_id":"p0038","source":"synthetic_v2"}
+{"synthetic_id":"s215","query":"ویکسین سائیڈ ایفیکٹس کی رپورٹنگ میں عوام کا کیا کردار ہے؟","positive_id":"p0039","source":"synthetic_v2"}
+{"synthetic_id":"s216","query":"جینیاتی نگرانی کے لیے نمونے کہاں بھیجیں؟","positive_id":"p0040","source":"synthetic_v2"}
+{"synthetic_id":"s217","query":"گھر میں آئسولیشن کے دوران بچوں کی تعلیم کیسے جاری رکھیں؟","positive_id":"p0041","source":"synthetic_v2"}
+{"synthetic_id":"s218","query":"صحت عامہ کے پیغامات میں سادہ زبان کیوں ضروری ہے؟","positive_id":"p0042","source":"synthetic_v2"}
+{"synthetic_id":"s219","query":"ویکسین کی منصفانہ تقسیم کے لیے کن شراکت داروں کی ضرورت ہوتی ہے؟","positive_id":"p0043","source":"synthetic_v2"}
+{"synthetic_id":"s220","query":"ریہیب پروگرامز میں مریض کی فزیوتھراپی کیسے کی جاتی ہے؟","positive_id":"p0044","source":"synthetic_v2"}
+{"synthetic_id":"s221","query":"اینٹی باڈی ٹیسٹنگ کے نتائج کو عوامی طور پر کیسے شیئر کریں؟","positive_id":"p0045","source":"synthetic_v2"}
+{"synthetic_id":"s222","query":"ذاتی صفائی کے پیغامات کو سوشل میڈیا پر کیسے پھیلائیں؟","positive_id":"p0046","source":"synthetic_v2"}
+{"synthetic_id":"s223","query":"نئے علاجی طریقوں کی جانچ میں مریض کی حفاظت کیسے یقینی بنائیں؟","positive_id":"p0047","source":"synthetic_v2"}
+{"synthetic_id":"s224","query":"صحت کارکنان کے لیے حفاظتی تربیت میں کن موضوعات کو شامل کریں؟","positive_id":"p0048","source":"synthetic_v2"}
+{"synthetic_id":"s225","query":"آن لائن گمراہ کن معلومات کی نشاندہی کے لیے کون سے اوزار ہیں؟","positive_id":"p0049","source":"synthetic_v2"}
+{"synthetic_id":"s226","query":"ویکسینیشن کے بعد کب سفر محفوظ سمجھا جا سکتا ہے؟","positive_id":"p0050","source":"synthetic_v2"}
+{"synthetic_id":"s227","query":"مقامی ڈیٹا اکٹھا کرنے میں کمیونٹی کا کیا کردار ہے؟","positive_id":"p0051","source":"synthetic_v2"}
+{"synthetic_id":"s228","query":"ویکسین لاجسٹکس میں کن حفاظتی اقدامات کی ضرورت ہے؟","positive_id":"p0052","source":"synthetic_v2"}
+{"synthetic_id":"s229","query":"کووڈ-19 کے مریضوں کے لیے غذائی منصوبہ بندی کیسے کریں؟","positive_id":"p0053","source":"synthetic_v2"}
+{"synthetic_id":"s230","query":"وبا کے دوران چھوٹے کاروباروں کو مالی مدد کیسے فراہم کریں؟","positive_id":"p0054","source":"synthetic_v2"}
+{"synthetic_id":"s231","query":"کمیونٹی مانیٹرنگ کے لیے مقامی رضاکاروں کو کیسے ٹرین کریں؟","positive_id":"p0055","source":"synthetic_v2"}
+{"synthetic_id":"s232","query":"معلوماتی سیشنز میں عام غلط فہمیاں کیسے دور کریں؟","positive_id":"p0056","source":"synthetic_v2"}
+{"synthetic_id":"s233","query":"سفر کے دوران قرنطینہ کے قواعد میں کیا فرق ہوتا ہے؟","positive_id":"p0057","source":"synthetic_v2"}
+{"synthetic_id":"s234","query":"شفاف ڈیٹا عوامی اعتماد میں کیسے اثر انداز ہوتا ہے؟","positive_id":"p0058","source":"synthetic_v2"}
+{"synthetic_id":"s235","query":"تحقیقی اپڈیٹس کو مقامی پالیسی میں کیسے شامل کریں؟","positive_id":"p0059","source":"synthetic_v2"}
+{"synthetic_id":"s236","query":"وبائی تیاری کے لیے کون سی مشقیں باقاعدگی سے کریں؟","positive_id":"p0060","source":"synthetic_v2"}
+{"synthetic_id":"s237","query":"کووڈ-19 کی علامات میں تبدیلی کب خطرناک ہوتی ہے؟","positive_id":"p0001","source":"synthetic_v2"}
+{"synthetic_id":"s238","query":"PCR ٹیسٹ کے نتائج کب غلط منفی آ سکتے ہیں؟","positive_id":"p0002","source":"synthetic_v2"}
+{"synthetic_id":"s239","query":"ہاتھ دھونے کے دوران جلدی میں کون سی غلطیاں ہوتی ہیں؟","positive_id":"p0003","source":"synthetic_v2"}
+{"synthetic_id":"s240","query":"ماسک پہننے کے دوران آنکھوں کی حفاظت کیوں ضروری ہے؟","positive_id":"p0004","source":"synthetic_v2"}
+{"synthetic_id":"s241","query":"سماجی فاصلہ برقرار رکھنے کے لیے مقامی حکمت عملی کیا ہو سکتی ہے؟","positive_id":"p0005","source":"synthetic_v2"}
+{"synthetic_id":"s242","query":"آکسیجن تھراپی کے دوران مریض کی غذائیت کا کیا خیال رکھیں؟","positive_id":"p0006","source":"synthetic_v2"}
+{"synthetic_id":"s243","query":"ویکسین کے اثرات کی مانیٹرنگ میں کون سی میٹرکس استعمال ہوتے ہیں؟","positive_id":"p0007","source":"synthetic_v2"}
+{"synthetic_id":"s244","query":"ویکسین کے بعد غیر معمولی علامات پر کیا کریں؟","positive_id":"p0008","source":"synthetic_v2"}
+{"synthetic_id":"s245","query":"WHO کی رہنمائی میں کن شعبوں پر زور ہوتا ہے؟","positive_id":"p0009","source":"synthetic_v2"}
+{"synthetic_id":"s246","query":"نئے ویرینٹس کی شناخت کے بعد کن اقدامات کی ضرورت ہوتی ہے؟","positive_id":"p0010","source":"synthetic_v2"}
+{"synthetic_id":"s247","query":"بوسٹر خوراک کے لیے کن طبی معیارات کو دیکھتے ہیں؟","positive_id":"p0011","source":"synthetic_v2"}
+{"synthetic_id":"s248","query":"ہسپتال میں وینٹیلیٹر کے استعمال کے دوران مریض کی حفاظت کیسے یقینی بنائیں؟","positive_id":"p0012","source":"synthetic_v2"}
+{"synthetic_id":"s249","query":"اینٹی وائرل ادویات کے ضمنی اثرات کی رپورٹنگ کیسے کریں؟","positive_id":"p0013","source":"synthetic_v2"}
+{"synthetic_id":"s250","query":"قرنطینہ کے دوران گھر میں صفائی کے بہترین طریقے کیا ہیں؟","positive_id":"p0015","source":"synthetic_v2"}
+{"synthetic_id":"s251","query":"آن لائن تعلیم کے لیے اساتذہ کو کون سی تربیت درکار ہے؟","positive_id":"p0016","source":"synthetic_v2"}
+{"synthetic_id":"s252","query":"وبا کے دوران ذہنی صحت کے لیے کون سی کمیونٹی پروگرامز مفید ہیں؟","positive_id":"p0017","source":"synthetic_v2"}
+{"synthetic_id":"s253","query":"اینٹیجن ٹیسٹ کب دوبارہ کروائیں؟","positive_id":"p0018","source":"synthetic_v2"}
+{"synthetic_id":"s254","query":"خطرہ والے گروپس کے لیے ویکسین کی ترجیحی پالیسیاں کیا ہیں؟","positive_id":"p0019","source":"synthetic_v2"}
+{"synthetic_id":"s255","query":"وینٹیلیشن بہتر بنانے کے لیے سادہ آلات کون سے ہیں؟","positive_id":"p0020","source":"synthetic_v2"}
+{"synthetic_id":"s256","query":"Long COVID کے مریضوں کے لیے کون سی ریسرچ جاری ہے؟","positive_id":"p0021","source":"synthetic_v2"}
+{"synthetic_id":"s257","query":"ویکسین اسٹوریج میں لاجسٹکس کے اہم پہلو کیا ہیں؟","positive_id":"p0022","source":"synthetic_v2"}
+{"synthetic_id":"s258","query":"حاملہ خواتین کے لیے ویکسین کے بارے میں عام سوالات کیا ہیں؟","positive_id":"p0023","source":"synthetic_v2"}
+{"synthetic_id":"s259","query":"بچوں کے لیے ویکسین کی حفاظت کی نگرانی کیسے کی جاتی ہے؟","positive_id":"p0024","source":"synthetic_v2"}
+{"synthetic_id":"s260","query":"ویکسین منظوری کے بعد عوامی معلومات کیسے فراہم کریں؟","positive_id":"p0025","source":"synthetic_v2"}
+{"synthetic_id":"s261","query":"غلط معلومات کے خلاف مقامی سطح پر کیا اقدامات کیے جا سکتے ہیں؟","positive_id":"p0026","source":"synthetic_v2"}
+{"synthetic_id":"s262","query":"ٹیسٹنگ اور ٹریسنگ کے لیے کمیونٹی شراکت داری کیسے بنائیں؟","positive_id":"p0027","source":"synthetic_v2"}
+{"synthetic_id":"s263","query":"کھانسی کے دوران ماسک پہننے کے فوائد کیا ہیں؟","positive_id":"p0028","source":"synthetic_v2"}
+{"synthetic_id":"s264","query":"N95 ماسک کی فٹنگ کیسے چیک کریں؟","positive_id":"p0029","source":"synthetic_v2"}
+{"synthetic_id":"s265","query":"سینٹائزر کے استعمال میں بچوں کو کیا سکھائیں؟","positive_id":"p0030","source":"synthetic_v2"}
+{"synthetic_id":"s266","query":"صحت نظام کی مضبوطی کے لیے کون سی مالی پالیسیاں ضروری ہیں؟","positive_id":"p0031","source":"synthetic_v2"}
+{"synthetic_id":"s267","query":"بوسٹر خوراک کے اثرات کی مانیٹرنگ کیسے کریں؟","positive_id":"p0032","source":"synthetic_v2"}
+{"synthetic_id":"s268","query":"mRNA ویکسین کے بارے میں عام غلط فہمیاں کیا ہیں؟","positive_id":"p0033","source":"synthetic_v2"}
+{"synthetic_id":"s269","query":"ویکسینیشن مراکز میں حفاظتی اقدامات کیا ہونے چاہئیں؟","positive_id":"p0034","source":"synthetic_v2"}
+{"synthetic_id":"s270","query":"سرحدی پابندیوں کے دوران طبی سامان کی فراہمی کیسے یقینی بنائیں؟","positive_id":"p0035","source":"synthetic_v2"}
+{"synthetic_id":"s271","query":"خون جمنے کی پیچیدگیوں کے لیے کون سی تشخیصی ٹیسٹ مفید ہیں؟","positive_id":"p0036","source":"synthetic_v2"}
+{"synthetic_id":"s272","query":"کمیونٹی لیڈرز کو ویکسین کے فوائد کیسے سمجھائیں؟","positive_id":"p0037","source":"synthetic_v2"}
+{"synthetic_id":"s273","query":"WHO کی رہنمائی میں شواہد کی جانچ کیسے کی جاتی ہے؟","positive_id":"p0038","source":"synthetic_v2"}
+{"synthetic_id":"s274","query":"ویکسین سائیڈ ایفیکٹس کی رپورٹنگ میں صحت مراکز کا کیا کردار ہے؟","positive_id":"p0039","source":"synthetic_v2"}
+{"synthetic_id":"s275","query":"جینیاتی نگرانی کے لیے نمونے کہاں بھیجیں؟","positive_id":"p0040","source":"synthetic_v2"}
+{"synthetic_id":"s276","query":"گھر میں آئسولیشن کے دوران بچوں کی دیکھ بھال کے مشورے کیا ہیں؟","positive_id":"p0041","source":"synthetic_v2"}
+{"synthetic_id":"s277","query":"صحت عامہ کے پیغامات میں شواہد کی بنیاد کیسے شامل کریں؟","positive_id":"p0042","source":"synthetic_v2"}
+{"synthetic_id":"s278","query":"ویکسین کی منصفانہ تقسیم کے لیے کن بین الاقوامی اقدامات کی ضرورت ہے؟","positive_id":"p0043","source":"synthetic_v2"}
+{"synthetic_id":"s279","query":"ریہیب پروگرامز میں مریض کی فزیوتھراپی کے کون سے طریقے شامل ہیں؟","positive_id":"p0044","source":"synthetic_v2"}
+{"synthetic_id":"s280","query":"اینٹی باڈی ٹیسٹنگ کے نتائج عوامی پالیسی میں کیسے مدد دیتے ہیں؟","positive_id":"p0045","source":"synthetic_v2"}
+{"synthetic_id":"s281","query":"ذاتی صفائی کے پیغامات کو مقامی زبان میں کیسے ڈھالیں؟","positive_id":"p0046","source":"synthetic_v2"}
+{"synthetic_id":"s282","query":"نئے علاجی طریقوں کی جانچ میں مریض کی رضامندی کیسے لی جاتی ہے؟","positive_id":"p0047","source":"synthetic_v2"}
+{"synthetic_id":"s283","query":"صحت کارکنان کے لیے حفاظتی سامان کی فراہمی کیسے یقینی بنائیں؟","positive_id":"p0048","source":"synthetic_v2"}
+{"synthetic_id":"s284","query":"آن لائن گمراہ کن معلومات کی روک تھام میں سوشل میڈیا کمپنیوں کا کیا کردار ہے؟","positive_id":"p0049","source":"synthetic_v2"}
+{"synthetic_id":"s285","query":"ویکسینیشن کے بعد کب عوامی تقریبات میں شرکت محفوظ ہے؟","positive_id":"p0050","source":"synthetic_v2"}
+{"synthetic_id":"s286","query":"مقامی ڈیٹا اکٹھا کرنے میں کمیونٹی کا کیا کردار ہے؟","positive_id":"p0051","source":"synthetic_v2"}
+{"synthetic_id":"s287","query":"ویکسین لاجسٹکس میں سردی کے انتظام کے لیے کون سی ٹیکنالوجی مفید ہے؟","positive_id":"p0052","source":"synthetic_v2"}
+{"synthetic_id":"s288","query":"کووڈ-19 کے مریضوں کے لیے غذائی منصوبہ بندی میں کن غذاؤں پر زور دیں؟","positive_id":"p0053","source":"synthetic_v2"}
+{"synthetic_id":"s289","query":"وبا کے دوران چھوٹے کاروباروں کو مالی مدد کیسے فراہم کی جا سکتی ہے؟","positive_id":"p0054","source":"synthetic_v2"}
+{"synthetic_id":"s290","query":"کمیونٹی مانیٹرنگ میں مقامی صحت مراکز کا کیا کردار ہے؟","positive_id":"p0055","source":"synthetic_v2"}
+{"synthetic_id":"s291","query":"معلوماتی سیشنز میں عام سوالات کیسے حل کریں؟","positive_id":"p0056","source":"synthetic_v2"}
+{"synthetic_id":"s292","query":"سفر کے دوران حفاظتی اقدامات میں کن چیزوں کا خیال رکھیں؟","positive_id":"p0057","source":"synthetic_v2"}
+{"synthetic_id":"s293","query":"شفاف ڈیٹا عوامی اعتماد میں کیسے اثر انداز ہوتا ہے؟","positive_id":"p0058","source":"synthetic_v2"}
+{"synthetic_id":"s294","query":"تحقیقی اپڈیٹس کو مقامی رہنماؤں تک کیسے پہنچائیں؟","positive_id":"p0059","source":"synthetic_v2"}
+{"synthetic_id":"s295","query":"وبائی تیاری کے لیے کون سی مشقیں باقاعدگی سے کریں؟","positive_id":"p0060","source":"synthetic_v2"}
+{"synthetic_id":"s296","query":"کووڈ-19 کی علامات میں تبدیلی کب خطرناک ہوتی ہے؟","positive_id":"p0001","source":"synthetic_v2"}
+{"synthetic_id":"s297","query":"PCR ٹیسٹ کے نتائج کب دوبارہ ٹیسٹ کی ضرورت ہوتی ہے؟","positive_id":"p0002","source":"synthetic_v2"}
+{"synthetic_id":"s298","query":"ہاتھ دھونے کے دوران کن حصوں کو اچھی طرح صاف کریں؟","positive_id":"p0003","source":"synthetic_v2"}
+{"synthetic_id":"s299","query":"ماسک پہننے کے دوران کون سی غلطیاں عام ہیں؟","positive_id":"p0004","source":"synthetic_v2"}
+{"synthetic_id":"s300","query":"سماجی فاصلہ برقرار رکھنے کے لیے مقامی حکمت عملی کیا ہو سکتی ہے؟","positive_id":"p0005","source":"synthetic_v2"}
+{"synthetic_id":"s301","query":"آکسیجن تھراپی کے دوران مریض کی دیکھ بھال میں کن باتوں کا خیال رکھیں؟","positive_id":"p0006","source":"synthetic_v2"}
+{"synthetic_id":"s302","query":"ویکسین کے اثرات کی پیمائش کے لیے کون سی آبادیی مطالعات کی جاتی ہیں؟","positive_id":"p0007","source":"synthetic_v2"}
+{"synthetic_id":"s303","query":"ویکسین کے بعد کب طبی مشورہ لازمی ہے؟","positive_id":"p0008","source":"synthetic_v2"}
+{"synthetic_id":"s304","query":"WHO کی رہنمائی میں کن شعبوں پر زور ہوتا ہے؟","positive_id":"p0009","source":"synthetic_v2"}
+{"synthetic_id":"s305","query":"نئے ویرینٹس کی شناخت کے بعد کن اقدامات کی ضرورت ہوتی ہے؟","positive_id":"p0010","source":"synthetic_v2"}
+{"synthetic_id":"s306","query":"بوسٹر خوراک کے لیے کن طبی معیارات کو دیکھتے ہیں؟","positive_id":"p0011","source":"synthetic_v2"}
+{"synthetic_id":"s307","query":"ہسپتال میں مریض کی وینٹیلیشن کی ضرورت کیسے طے کی جاتی ہے؟","positive_id":"p0012","source":"synthetic_v2"}
+{"synthetic_id":"s308","query":"اینٹی وائرل ادویات کے ضمنی اثرات کی رپورٹنگ کیسے کریں؟","positive_id":"p0013","source":"synthetic_v2"}
+{"synthetic_id":"s309","query":"قرنطینہ کے دوران گھر میں صفائی کے بہترین طریقے کیا ہیں؟","positive_id":"p0015","source":"synthetic_v2"}
+{"synthetic_id":"s310","query":"آن لائن تعلیم کے لیے اساتذہ کو کون سی تربیت درکار ہے؟","positive_id":"p0016","source":"synthetic_v2"}
+{"synthetic_id":"s311","query":"وبا کے دوران ذہنی صحت کے لیے کون سی کمیونٹی پروگرامز مفید ہیں؟","positive_id":"p0017","source":"synthetic_v2"}
+{"synthetic_id":"s312","query":"اینٹیجن ٹیسٹ کب دوبارہ کروائیں؟","positive_id":"p0018","source":"synthetic_v2"}
+{"synthetic_id":"s313","query":"خطرہ والے گروپس کے لیے ویکسین کی ترجیحی پالیسیاں کیا ہیں؟","positive_id":"p0019","source":"synthetic_v2"}
+{"synthetic_id":"s314","query":"وینٹیلیشن بہتر بنانے کے لیے سادہ آلات کون سے ہیں؟","positive_id":"p0020","source":"synthetic_v2"}
+{"synthetic_id":"s315","query":"Long COVID کے مریضوں کے لیے کون سی ریسرچ جاری ہے؟","positive_id":"p0021","source":"synthetic_v2"}
+{"synthetic_id":"s316","query":"ویکسین اسٹوریج میں ٹریکنگ کیسے کریں؟","positive_id":"p0022","source":"synthetic_v2"}
+{"synthetic_id":"s317","query":"حاملہ خواتین کے لیے ویکسین کے ممکنہ خطرات کیا ہیں؟","positive_id":"p0023","source":"synthetic_v2"}
+{"synthetic_id":"s318","query":"بچوں کے لیے ویکسین کی خوراکیں کس طرح مختلف ہوتی ہیں؟","positive_id":"p0024","source":"synthetic_v2"}
+{"synthetic_id":"s319","query":"ویکسین منظوری کے بعد مانیٹرنگ کیسے کی جاتی ہے؟","positive_id":"p0025","source":"synthetic_v2"}
+{"synthetic_id":"s320","query":"غلط معلومات کے خلاف مقامی سطح پر کیا اقدامات کیے جا سکتے ہیں؟","positive_id":"p0026","source":"synthetic_v2"}
+{"synthetic_id":"s321","query":"ٹیسٹنگ اور ٹریسنگ کے لیے کمیونٹی شراکت داری کیسے بنائیں؟","positive_id":"p0027","source":"synthetic_v2"}
+{"synthetic_id":"s322","query":"کھانسی کے دوران حفاظتی اقدامات کیا کریں؟","positive_id":"p0028","source":"synthetic_v2"}
+{"synthetic_id":"s323","query":"N95 ماسک کی مناسب دیکھ بھال کیسے کریں؟","positive_id":"p0029","source":"synthetic_v2"}
+{"synthetic_id":"s324","query":"سینٹائزر استعمال کرنے کے صحیح اوقات کون سے ہیں؟","positive_id":"p0030","source":"synthetic_v2"} 
+{"synthetic_id":"s325","query":"وبا کے دوران ہسپتالوں میں بستر کی کمی کا حل کیا ہو سکتا ہے؟","positive_id":"p0031","source":"synthetic_v2"} 
+{"synthetic_id":"s326","query":"بوسٹر خوراک کے اثرات کی مانیٹرنگ میں کون سی میٹرکس اہم ہیں؟","positive_id":"p0032","source":"synthetic_v2"} 
+{"synthetic_id":"s327","query":"mRNA ویکسین کو محفوظ رکھنے کے لیے کیا ضروری ہے؟","positive_id":"p0033","source":"synthetic_v2"} 
+{"synthetic_id":"s328","query":"ویکسینیشن مہمات میں مقامی شراکت داری کیوں ضروری ہے؟","positive_id":"p0034","source":"synthetic_v2"} 
+{"synthetic_id":"s329","query":"سرحدی پابندیوں کے دوران مسافروں کی جانچ کیسے کی جاتی ہے؟","positive_id":"p0035","source":"synthetic_v2"} 
+{"synthetic_id":"s330","query":"کووڈ-19 میں خون جمنے کی پیچیدگیوں کی ابتدائی علامات کیا ہیں؟","positive_id":"p0036","source":"synthetic_v2"} 
+{"synthetic_id":"s331","query":"کمیونٹی لیڈرز کو ویکسین کے پیغامات کیسے تیار کرنے چاہئیں؟","positive_id":"p0037","source":"synthetic_v2"} 
+{"synthetic_id":"s332","query":"WHO کی رہنمائی میں اپڈیٹس کب جاری ہوتے ہیں؟","positive_id":"p0038","source":"synthetic_v2"} 
+{"synthetic_id":"s333","query":"ویکسین سائیڈ ایفیکٹس کی رپورٹنگ کا طریقہ کار کیا ہے؟","positive_id":"p0039","source":"synthetic_v2"} 
+{"synthetic_id":"s334","query":"جینیاتی نگرانی کے لیے نمونہ کیسے تیار کیا جاتا ہے؟","positive_id":"p0040","source":"synthetic_v2"} 
+{"synthetic_id":"s335","query":"گھر میں آئسولیشن کے دوران صفائی کے لیے کون سی ہدایات ہیں؟","positive_id":"p0041","source":"synthetic_v2"} 
+{"synthetic_id":"s336","query":"صحت عامہ کے پیغامات میں شواہد کی بنیاد کیسے شامل کریں؟","positive_id":"p0042","source":"synthetic_v2"} 
+{"synthetic_id":"s337","query":"ویکسین کی منصفانہ تقسیم کے لیے کن بین الاقوامی اداروں کا کردار ہے؟","positive_id":"p0043","source":"synthetic_v2"} 
+{"synthetic_id":"s338","query":"ریہیب پروگرامز میں کون سی ورزشیں شامل ہوتی ہیں؟","positive_id":"p0044","source":"synthetic_v2"} 
+{"synthetic_id":"s339","query":"اینٹی باڈی ٹیسٹنگ کے نتائج کو کس طرح سمجھا جائے؟","positive_id":"p0045","source":"synthetic_v2"} 
+{"synthetic_id":"s340","query":"ذاتی صفائی کے پیغامات کو مقامی زبان میں کیسے ڈھالیں؟","positive_id":"p0046","source":"synthetic_v2"} 
+{"synthetic_id":"s341","query":"نئے علاجی طریقوں کی جانچ میں کن حفاظتی اقدامات کی ضرورت ہے؟","positive_id":"p0047","source":"synthetic_v2"} 
+{"synthetic_id":"s342","query":"صحت کارکنان کے لیے حفاظتی سامان کی فراہمی کیسے یقینی بنائی جائے؟","positive_id":"p0048","source":"synthetic_v2"} 
+{"synthetic_id":"s343","query":"آن لائن گمراہ کن معلومات کی روک تھام میں کون سی حکمت عملی مفید ہیں؟","positive_id":"p0049","source":"synthetic_v2"} 
+{"synthetic_id":"s344","query":"ویکسینیشن کے بعد کب تک ماسک پہننا چاہیے؟","positive_id":"p0050","source":"synthetic_v2"} 
+{"synthetic_id":"s345","query":"مقامی ڈیٹا اکٹھا کرنے کے لیے کون سی شراکت داریاں مفید ہیں؟","positive_id":"p0051","source":"synthetic_v2"} 
+{"synthetic_id":"s346","query":"ویکسین لاجسٹکس میں سردی کے انتظام کے لیے کون سی ٹیکنالوجی کارآمد ہے؟","positive_id":"p0052","source":"synthetic_v2"} 
+{"synthetic_id":"s347","query":"کووڈ-19 کے مریضوں کے لیے کون سی غذائیں مفید ہیں؟","positive_id":"p0053","source":"synthetic_v2"} 
+{"synthetic_id":"s348","query":"وبا کے دوران چھوٹے کاروباروں کو کون سی مالی امداد مل سکتی ہے؟","positive_id":"p0054","source":"synthetic_v2"} 
+{"synthetic_id":"s349","query":"کمیونٹی مانیٹرنگ کے لیے کون سی رپورٹس تیار کی جانی چاہئیں؟","positive_id":"p0055","source":"synthetic_v2"} 
+{"synthetic_id":"s350","query":"معلوماتی سیشنز میں عام سوالات کے جوابات کیسے تیار کریں؟","positive_id":"p0056","source":"synthetic_v2"} 
+{"synthetic_id":"s351","query":"سفر کے دوران کن حفاظتی اقدامات پر عمل کریں؟","positive_id":"p0057","source":"synthetic_v2"} 
+{"synthetic_id":"s352","query":"شفاف ڈیٹا شیئرنگ کے فوائد کیا ہیں؟","positive_id":"p0058","source":"synthetic_v2"} 
+{"synthetic_id":"s353","query":"تحقیقی اپڈیٹس کہاں سے حاصل کریں؟","positive_id":"p0059","source":"synthetic_v2"} 
+{"synthetic_id":"s354","query":"وبائی تیاری کے لیے کون سی مشقیں باقاعدگی سے کرنی چاہئیں؟","positive_id":"p0060","source":"synthetic_v2"} 
+{"synthetic_id":"s355","query":"کووڈ-19 کی علامات میں تبدیلی کب خطرناک ہوتی ہے؟","positive_id":"p0001","source":"synthetic_v2"} 
+{"synthetic_id":"s356","query":"PCR ٹیسٹ کے نتائج کب دوبارہ ٹیسٹ کی ضرورت ہوتی ہے؟","positive_id":"p0002","source":"synthetic_v2"} 
+{"synthetic_id":"s357","query":"ہاتھ دھونے کے دوران کن حصوں کو اچھی طرح صاف کریں؟","positive_id":"p0003","source":"synthetic_v2"} 
+{"synthetic_id":"s358","query":"ماسک پہننے کے دوران آنکھوں کی حفاظت کیوں ضروری ہے؟","positive_id":"p0004","source":"synthetic_v2"} 
+{"synthetic_id":"s359","query":"سماجی فاصلہ برقرار رکھنے کے لیے مقامی حکمت عملی کیا ہو سکتی ہے؟","positive_id":"p0005","source":"synthetic_v2"} 
+{"synthetic_id":"s360","query":"آکسیجن تھراپی کے دوران مریض کی دیکھ بھال میں کن باتوں کا خیال رکھیں؟","positive_id":"p0006","source":"synthetic_v2"} 
+{"synthetic_id":"s361","query":"ویکسین کے اثرات کو ماپنے کے لیے کون سی آبادیی مطالعات کی جاتی ہیں؟","positive_id":"p0007","source":"synthetic_v2"} 
+{"synthetic_id":"s362","query":"ویکسین کے بعد کب طبی مشورہ لازمی ہے؟","positive_id":"p0008","source":"synthetic_v2"} 
+{"synthetic_id":"s363","query":"WHO کی رہنمائی میں کن شعبوں پر زور ہوتا ہے؟","positive_ids":["p0009"],"positive_id":"p0009","source":"synthetic_v2"} 
+{"synthetic_id":"s364","query":"نئے ویرینٹس کی شناخت کے بعد کن اقدامات کی ضرورت ہوتی ہے؟","positive_id":"p0010","source":"synthetic_v2"} 
+{"synthetic_id":"s365","query":"بوسٹر خوراک کے لیے کن طبی معیارات کو دیکھا جاتا ہے؟","positive_id":"p0011","source":"synthetic_v2"} 
+{"synthetic_id":"s366","query":"ہسپتال میں مریض کی وینٹیلیشن کی ضرورت کیسے طے کی جاتی ہے؟","positive_id":"p0012","source":"synthetic_v2"} 
+{"synthetic_id":"s367","query":"اینٹی وائرل ادویات کے ضمنی اثرات کی رپورٹنگ کیسے کریں؟","positive_id":"p0013","source":"synthetic_v2"} 
+{"synthetic_id":"s368","query":"قرنطینہ کے دوران گھر میں صفائی کے بہترین طریقے کیا ہیں؟","positive_id":"p0015","source":"synthetic_v2"} 
+{"synthetic_id":"s369","query":"آن لائن تعلیم کے لیے اساتذہ کو کون سی تربیت درکار ہے؟","positive_id":"p0016","source":"synthetic_v2"} 
+{"synthetic_id":"s370","query":"وبا کے دوران ذہنی صحت کے لیے کون سی کمیونٹی پروگرامز مفید ہیں؟","positive_id":"p0017","source":"synthetic_v2"} 
+{"synthetic_id":"s371","query":"اینٹیجن ٹیسٹ کب دوبارہ کروائیں؟","positive_id":"p0018","source":"synthetic_v2"} 
+{"synthetic_id":"s372","query":"خطرہ والے گروپس کے لیے ویکسین کی ترجیحی پالیسیاں کیا ہیں؟","positive_id":"p0019","source":"synthetic_v2"} 
+{"synthetic_id":"s373","query":"وینٹیلیشن بہتر بنانے کے لیے سادہ آلات کون سے ہیں؟","positive_id":"p0020","source":"synthetic_v2"} 
+{"synthetic_id":"s374","query":"Long COVID کے مریضوں کے لیے کون سی ریسرچ جاری ہے؟","positive_id":"p0021","source":"synthetic_v2"} 
+{"synthetic_id":"s375","query":"ویکسین اسٹوریج میں ٹریکنگ کیسے کریں؟","positive_id":"p0022","source":"synthetic_v2"} 
+{"synthetic_id":"s376","query":"حاملہ خواتین کے لیے ویکسین کے ممکنہ خطرات کیا ہیں؟","positive_id":"p0023","source":"synthetic_v2"} 
+{"synthetic_id":"s377","query":"بچوں کے لیے ویکسین کی خوراکیں کس طرح مختلف ہوتی ہیں؟","positive_id":"p0024","source":"synthetic_v2"} 
+{"synthetic_id":"s378","query":"ویکسین منظوری کے بعد مانیٹرنگ کیسے کی جاتی ہے؟","positive_id":"p0025","source":"synthetic_v2"} 
+{"synthetic_id":"s379","query":"غلط معلومات کے خلاف مقامی سطح پر کیا اقدامات کیے جا سکتے ہیں؟","positive_id":"p0026","source":"synthetic_v2"} 
+{"synthetic_id":"s380","query":"ٹیسٹنگ اور ٹریسنگ کے لیے کمیونٹی شراکت داری کیسے بنائیں؟","positive_id":"p0027","source":"synthetic_v2"} 
+{"synthetic_id":"s381","query":"کھانسی کے دوران حفاظتی اقدامات کیا کریں؟","positive_id":"p0028","source":"synthetic_v2"} 
+{"synthetic_id":"s382","query":"N95 ماسک کی مناسب دیکھ بھال کیسے کریں؟","positive_id":"p0029","source":"synthetic_v2"} 
+{"synthetic_id":"s383","query":"سینٹائزر کے استعمال میں حفاظت کے کون سے اصول ہیں؟","positive_id":"p0030","source":"synthetic_v2"} 
+{"synthetic_id":"s384","query":"صحت نظام کی مضبوطی کے لیے کون سی مالی پالیسیاں ضروری ہیں؟","positive_id":"p0031","source":"synthetic_v2"} 
+{"synthetic_id":"s385","query":"بوسٹر خوراک کے اثرات کی مانیٹرنگ کیسے کریں؟","positive_id":"p0032","source":"synthetic_v2"} 
+{"synthetic_id":"s386","query":"mRNA ویکسین کے بارے میں عام غلط فہمیاں کیا ہیں؟","positive_id":"p0033","source":"synthetic_v2"} 
+{"synthetic_id":"s387","query":"ویکسینیشن مراکز میں حفاظتی اقدامات کیا ہونے چاہئیں؟","positive_id":"p0034","source":"synthetic_v2"} 
+{"synthetic_id":"s388","query":"سرحدی پابندیوں کے دوران طبی سامان کی فراہمی کیسے یقینی بنائیں؟","positive_id":"p0035","source":"synthetic_v2"} 
+{"synthetic_id":"s389","query":"خون جمنے کی پیچیدگیوں کے لیے کون سی تشخیصی ٹیسٹ مفید ہیں؟","positive_id":"p0036","source":"synthetic_v2"} 
+{"synthetic_id":"s390","query":"کمیونٹی لیڈرز کو ویکسین کے فوائد کیسے سمجھائیں؟","positive_id":"p0037","source":"synthetic_v2"} 
+{"synthetic_id":"s391","query":"WHO کی رہنمائی میں شواہد کی جانچ کیسے کی جاتی ہے؟","positive_id":"p0038","source":"synthetic_v2"} 
+{"synthetic_id":"s392","query":"ویکسین سائیڈ ایفیکٹس کی رپورٹنگ میں صحت مراکز کا کیا کردار ہے؟","positive_id":"p0039","source":"synthetic_v2"} 
+{"synthetic_id":"s393","query":"جینیاتی نگرانی کے لیے نمونے کہاں بھیجیں؟","positive_id":"p0040","source":"synthetic_v2"} 
+{"synthetic_id":"s394","query":"گھر میں آئسولیشن کے دوران بچوں کی دیکھ بھال کے مشورے کیا ہیں؟","positive_id":"p0041","source":"synthetic_v2"} 
+{"synthetic_id":"s395","query":"صحت عامہ کے پیغامات میں شواہد کی بنیاد کیسے شامل کریں؟","positive_id":"p0042","source":"synthetic_v2"} 
+{"synthetic_id":"s396","query":"ویکسین کی منصفانہ تقسیم کے لیے کن بین الاقوامی اقدامات کی ضرورت ہے؟","positive_id":"p0043","source":"synthetic_v2"} 
+{"synthetic_id":"s397","query":"ریہیب پروگرامز میں مریض کی فزیوتھراپی کے کون سے طریقے شامل ہیں؟","positive_id":"p0044","source":"synthetic_v2"} 
+{"synthetic_id":"s398","query":"اینٹی باڈی ٹیسٹنگ کے نتائج عوامی پالیسی میں کیسے مدد دیتے ہیں؟","positive_id":"p0045","source":"synthetic_v2"} 
+{"synthetic_id":"s399","query":"ذاتی صفائی کے پیغامات کو مقامی زبان میں کیسے ڈھالیں؟","positive_id":"p0046","source":"synthetic_v2"} 
+{"synthetic_id":"s400","query":"نئے علاجی طریقوں کی جانچ میں مریض کی رضامندی کیسے لی جاتی ہے؟","positive_id":"p0047","source":"synthetic_v2"} 
+{"synthetic_id":"s401","query":"صحت کارکنان کے لیے حفاظتی سامان کی فراہمی کیسے یقینی بنائی جائے؟","positive_id":"p0048","source":"synthetic_v2"} 
+{"synthetic_id":"s402","query":"آن لائن گمراہ کن معلومات کی روک تھام میں سوشل میڈیا کمپنیوں کا کیا کردار ہے؟","positive_id":"p0049","source":"synthetic_v2"} 
+{"synthetic_id":"s403","query":"ویکسینیشن کے بعد کب عوامی تقریبات میں شرکت محفوظ سمجھی جا سکتی ہے؟","positive_id":"p0050","source":"synthetic_v2"} 
+{"synthetic_id":"s404","query":"مقامی ڈیٹا اکٹھا کرنے میں کمیونٹی کا کیا کردار ہوتا ہے؟","positive_id":"p0051","source":"synthetic_v2"} 
+{"synthetic_id":"s405","query":"ویکسین لاجسٹکس میں سردی کے انتظام کے لیے کون سی ٹیکنالوجی مفید ہے؟","positive_id":"p0052","source":"synthetic_v2"} 
+{"synthetic_id":"s406","query":"کووڈ-19 کے مریضوں کے لیے غذائی منصوبہ بندی میں کن غذاؤں پر زور دینا چاہیے؟","positive_id":"p0053","source":"synthetic_v2"} 
+{"synthetic_id":"s407","query":"وبا کے دوران چھوٹے کاروباروں کو مالی مدد کیسے فراہم کی جا سکتی ہے؟","positive_id":"p0054","source":"synthetic_v2"} 
+{"synthetic_id":"s408","query":"کمیونٹی مانیٹرنگ میں مقامی صحت مراکز کا کیا کردار ہے؟","positive_id":"p0055","source":"synthetic_v2"} 
+{"synthetic_id":"s409","query":"معلوماتی سیشنز میں عام سوالات کیسے حل کیے جائیں؟","positive_id":"p0056","source":"synthetic_v2"} 
+{"synthetic_id":"s410","query":"سفر کے دوران حفاظتی اقدامات میں کن چیزوں کا خیال رکھیں؟","positive_id":"p0057","source":"synthetic_v2"} 
+{"synthetic_id":"s411","query":"شفاف ڈیٹا عوامی اعتماد میں کیسے اثر انداز ہوتا ہے؟","positive_id":"p0058","source":"synthetic_v2"} 
+{"synthetic_id":"s412","query":"تحقیقی اپڈیٹس کو مقامی رہنماؤں تک کیسے پہنچایا جائے؟","positive_id":"p0059","source":"synthetic_v2"} 
+{"synthetic_id":"s413","query":"وبائی تیاری کے لیے کون سی مشقیں باقاعدگی سے کرنی چاہئیں؟","positive_id":"p0060","source":"synthetic_v2"} 
+{"synthetic_id":"s414","query":"کووڈ-19 کی علامات میں تبدیلی کب خطرناک سمجھی جاتی ہے؟","positive_id":"p0001","source":"synthetic_v2"} 
+{"synthetic_id":"s415","query":"PCR ٹیسٹ کے نتائج کب دوبارہ ٹیسٹ کی ضرورت ہوتی ہے؟","positive_id":"p0002","source":"synthetic_v2"} 
+{"synthetic_id":"s416","query":"ہاتھ دھونے کے دوران کن حصوں کو اچھی طرح صاف کریں؟","positive_id":"p0003","source":"synthetic_v2"} 
+{"synthetic_id":"s417","query":"ماسک پہننے کے دوران کون سی غلطیاں عام ہیں؟","positive_id":"p0004","source":"synthetic_v2"} 
+{"synthetic_id":"s418","query":"سماجی فاصلہ برقرار رکھنے کے لیے مقامی حکمت عملی کیا ہو سکتی ہے؟","positive_id":"p0005","source":"synthetic_v2"} 
+{"synthetic_id":"s419","query":"آکسیجن تھراپی کے دوران مریض کی دیکھ بھال میں کن باتوں کا خیال رکھیں؟","positive_id":"p0006","source":"synthetic_v2"} 
+{"synthetic_id":"s420","query":"ویکسین کے اثرات کی پیمائش کے لیے کون سی آبادیی مطالعات کی جاتی ہیں؟","positive_id":"p0007","source":"synthetic_v2"} 
+{"synthetic_id":"s421","query":"ویکسین کے بعد کب طبی مشورہ لازمی ہے؟","positive_id":"p0008","source":"synthetic_v2"} 
+{"synthetic_id":"s422","query":"WHO کی رہنمائی میں کن شعبوں پر زور ہوتا ہے؟","positive_id":"p0009","source":"synthetic_v2"} 
+{"synthetic_id":"s423","query":"نئے ویرینٹس کی شناخت کے بعد کن اقدامات کی ضرورت ہوتی ہے؟","positive_id":"p0010","source":"synthetic_v2"} 
+{"synthetic_id":"s424","query":"بوسٹر خوراک کے لیے کن طبی معیارات کو دیکھا جاتا ہے؟","positive_id":"p0011","source":"synthetic_v2"} 
+{"synthetic_id":"s425","query":"ہسپتال میں مریض کی وینٹیلیشن کی ضرورت کیسے طے کی جاتی ہے؟","positive_id":"p0012","source":"synthetic_v2"} 
+{"synthetic_id":"s426","query":"اینٹی وائرل ادویات کے ضمنی اثرات کی رپورٹنگ کیسے کریں؟","positive_id":"p0013","source":"synthetic_v2"} 
+{"synthetic_id":"s427","query":"قرنطینہ کے دوران گھر میں صفائی کے بہترین طریقے کیا ہیں؟","positive_id":"p0015","source":"synthetic_v2"} 
+{"synthetic_id":"s428","query":"آن لائن تعلیم کے لیے اساتذہ کو کون سی تربیت درکار ہے؟","positive_id":"p0016","source":"synthetic_v2"} 
+{"synthetic_id":"s429","query":"وبا کے دوران ذہنی صحت کے لیے کون سی کمیونٹی پروگرامز مفید ہیں؟","positive_id":"p0017","source":"synthetic_v2"} 
+{"synthetic_id":"s430","query":"اینٹیجن ٹیسٹ کب دوبارہ کروائیں؟","positive_id":"p0018","source":"synthetic_v2"} 
+{"synthetic_id":"s431","query":"خطرہ والے گروپس کے لیے ویکسین کی ترجیحی پالیسیاں کیا ہیں؟","positive_id":"p0019","source":"synthetic_v2"} 
+{"synthetic_id":"s432","query":"وینٹیلیشن بہتر بنانے کے لیے سادہ آلات کون سے ہیں؟","positive_id":"p0020","source":"synthetic_v2"} 
+{"synthetic_id":"s433","query":"Long COVID کے مریضوں کے لیے کون سی ریسرچ جاری ہے؟","positive_id":"p0021","source":"synthetic_v2"} 
+{"synthetic_id":"s434","query":"ویکسین اسٹوریج میں ٹریکنگ کیسے کی جاتی ہے؟","positive_id":"p0022","source":"synthetic_v2"} 
+{"synthetic_id":"s435","query":"حاملہ خواتین کے لیے ویکسین کے ممکنہ خطرات کیا ہیں؟","positive_id":"p0023","source":"synthetic_v2"} 
+{"synthetic_id":"s436","query":"بچوں کے لیے ویکسین کی خوراکیں کس طرح مختلف ہوتی ہیں؟","positive_id":"p0024","source":"synthetic_v2"} 
+{"synthetic_id":"s437","query":"ویکسین منظوری کے بعد مانیٹرنگ کیسے کی جاتی ہے؟","positive_id":"p0025","source":"synthetic_v2"} 
+{"synthetic_id":"s438","query":"غلط معلومات کے خلاف مقامی سطح پر کیا اقدامات کیے جا سکتے ہیں؟","positive_id":"p0026","source":"synthetic_v2"} 
+{"synthetic_id":"s439","query":"ٹیسٹنگ اور ٹریسنگ کے لیے کمیونٹی شراکت داری کیسے بنائیں؟","positive_id":"p0027","source":"synthetic_v2"} 
+{"synthetic_id":"s440","query":"کھانسی کے دوران حفاظتی اقدامات کیا کریں؟","positive_id":"p0028","source":"synthetic_v2"} 
+{"synthetic_id":"s441","query":"N95 ماسک کی مناسب دیکھ بھال کیسے کریں؟","positive_id":"p0029","source":"synthetic_v2"} 
+{"synthetic_id":"s442","query":"سینٹائزر کے استعمال میں حفاظت کے کون سے اصول ہیں؟","positive_id":"p0030","source":"synthetic_v2"} 
+{"synthetic_id":"s443","query":"صحت نظام کی مضبوطی کے لیے کون سی مالی پالیسیاں ضروری ہیں؟","positive_id":"p0031","source":"synthetic_v2"} 
+{"synthetic_id":"s444","query":"بوسٹر خوراک کے اثرات کی مانیٹرنگ کیسے کریں؟","positive_id":"p0032","source":"synthetic_v2"} 
+{"synthetic_id":"s445","query":"mRNA ویکسین کے بارے میں عام غلط فہمیاں کیا ہیں؟","positive_id":"p0033","source":"synthetic_v2"} 
+{"synthetic_id":"s446","query":"ویکسینیشن مراکز میں حفاظتی اقدامات کیا ہونے چاہئیں؟","positive_id":"p0034","source":"synthetic_v2"} 
+{"synthetic_id":"s447","query":"سرحدی پابندیوں کے دوران طبی سامان کی فراہمی کیسے یقینی بنائیں؟","positive_id":"p0035","source":"synthetic_v2"} 
+{"synthetic_id":"s448","query":"خون جمنے کی پیچیدگیوں کے لیے کون سی تشخیصی ٹیسٹ مفید ہیں؟","positive_id":"p0036","source":"synthetic_v2"} 
+{"synthetic_id":"s449","query":"کمیونٹی لیڈرز کو ویکسین کے فوائد کیسے سمجھائیں؟","positive_id":"p0037","source":"synthetic_v2"} 
+{"synthetic_id":"s450","query":"WHO کی رہنمائی میں شواہد کی جانچ کیسے کی جاتی ہے؟","positive_id":"p0038","source":"synthetic_v2"} 
+{"synthetic_id":"s451","query":"ویکسین سائیڈ ایفیکٹس کی رپورٹنگ میں صحت مراکز کا کیا کردار ہے؟","positive_id":"p0039","source":"synthetic_v2"} 
+{"synthetic_id":"s452","query":"جینیاتی نگرانی کے لیے نمونے کہاں بھیجیں؟","positive_id":"p0040","source":"synthetic_v2"} 
+{"synthetic_id":"s453","query":"گھر میں آئسولیشن کے دوران بچوں کی دیکھ بھال کے مشورے کیا ہیں؟","positive_id":"p0041","source":"synthetic_v2"} 
+{"synthetic_id":"s454","query":"صحت عامہ کے پیغامات میں شواہد کی بنیاد کیسے شامل کریں؟","positive_id":"p0042","source":"synthetic_v2"} 
+{"synthetic_id":"s455","query":"ویکسین کی منصفانہ تقسیم کے لیے کن بین الاقوامی اقدامات کی ضرورت ہے؟","positive_id":"p0043","source":"synthetic_v2"} 
+{"synthetic_id":"s456","query":"ریہیب پروگرامز میں مریض کی فزیوتھراپی کے کون سے طریقے شامل ہیں؟","positive_id":"p0044","source":"synthetic_v2"} 
+{"synthetic_id":"s457","query":"اینٹی باڈی ٹیسٹنگ کے نتائج عوامی پالیسی میں کیسے مدد دیتے ہیں؟","positive_id":"p0045","source":"synthetic_v2"} 
+{"synthetic_id":"s458","query":"ذاتی صفائی کے پیغامات کو مقامی زبان میں کیسے ڈھالیں؟","positive_id":"p0046","source":"synthetic_v2"} 
+{"synthetic_id":"s459","query":"نئے علاجی طریقوں کی جانچ میں مریض کی رضامندی کیسے لی جاتی ہے؟","positive_id":"p0047","source":"synthetic_v2"} 
+{"synthetic_id":"s460","query":"صحت کارکنان کے لیے حفاظتی سامان کی فراہمی کیسے یقینی بنائی جائے؟","positive_id":"p0048","source":"synthetic_v2"} 
+{"synthetic_id":"s461","query":"آن لائن گمراہ کن معلومات کی روک تھام میں سوشل میڈیا کمپنیوں کا کیا کردار ہے؟","positive_id":"p0049","source":"synthetic_v2"} 
+{"synthetic_id":"s462","query":"ویکسینیشن کے بعد کب عوامی تقریبات میں شرکت محفوظ سمجھی جا سکتی ہے؟","positive_id":"p0050","source":"synthetic_v2"} 
+{"synthetic_id":"s463","query":"مقامی ڈیٹا اکٹھا کرنے میں کمیونٹی کا کیا کردار ہوتا ہے؟","positive_id":"p0051","source":"synthetic_v2"} 
+{"synthetic_id":"s464","query":"ویکسین لاجسٹکس میں سردی کے انتظام کے لیے کون سی ٹیکنالوجی مفید ہے؟","positive_id":"p0052","source":"synthetic_v2"} 
+{"synthetic_id":"s465","query":"کووڈ-19 کے مریضوں کے لیے غذائی منصوبہ بندی میں کن غذاؤں پر زور دینا چاہیے؟","positive_id":"p0053","source":"synthetic_v2"} 
+{"synthetic_id":"s466","query":"وبا کے دوران چھوٹے کاروباروں کو مالی مدد کیسے فراہم کی جا سکتی ہے؟","positive_id":"p0054","source":"synthetic_v2"} 
+{"synthetic_id":"s467","query":"کمیونٹی مانیٹرنگ میں مقامی صحت مراکز کا کیا کردار ہے؟","positive_id":"p0055","source":"synthetic_v2"} 
+{"synthetic_id":"s468","query":"معلوماتی سیشنز میں عام سوالات کیسے حل کیے جائیں؟","positive_id":"p0056","source":"synthetic_v2"} 
+{"synthetic_id":"s469","query":"سفر کے دوران حفاظتی اقدامات میں کن چیزوں کا خیال رکھیں؟","positive_id":"p0057","source":"synthetic_v2"} 
+{"synthetic_id":"s470","query":"شفاف ڈیٹا عوامی اعتماد میں کیسے اثر انداز ہوتا ہے؟","positive_id":"p0058","source":"synthetic_v2"} 
+{"synthetic_id":"s471","query":"تحقیقی اپڈیٹس کو مقامی رہنماؤں تک کیسے پہنچایا جائے؟","positive_id":"p0059","source":"synthetic_v2"} 
+{"synthetic_id":"s472","query":"وبائی تیاری کے لیے کون سی مشقیں باقاعدگی سے کرنی چاہئیں؟","positive_id":"p0060","source":"synthetic_v2"} 
+{"synthetic_id":"s473","query":"کووڈ-19 کی علامات میں تبدیلی کب خطرناک سمجھی جاتی ہے؟","positive_id":"p0001","source":"synthetic_v2"} 
+{"synthetic_id":"s474","query":"PCR ٹیسٹ کے نتائج کب دوبارہ ٹیسٹ کی ضرورت ہوتی ہے؟","positive_id":"p0002","source":"synthetic_v2"} 
+{"synthetic_id":"s475","query":"ہاتھ دھونے کے دوران کن حصوں کو اچھی طرح صاف کریں؟","positive_id":"p0003","source":"synthetic_v2"} 
+{"synthetic_id":"s476","query":"ماسک پہننے کے دوران کون سی غلطیاں عام ہیں؟","positive_id":"p0004","source":"synthetic_v2"} 
+{"synthetic_id":"s477","query":"سماجی فاصلہ برقرار رکھنے کے لیے مقامی حکمت عملی کیا ہو سکتی ہے؟","positive_id":"p0005","source":"synthetic_v2"} 
+{"synthetic_id":"s478","query":"آکسیجن تھراپی کے دوران مریض کی دیکھ بھال میں کن باتوں کا خیال رکھیں؟","positive_id":"p0006","source":"synthetic_v2"} 
+{"synthetic_id":"s479","query":"ویکسین کے اثرات کی پیمائش کے لیے کون سی آبادیی مطالعات کی جاتی ہیں؟","positive_id":"p0007","source":"synthetic_v2"} 
+{"synthetic_id":"s480","query":"ویکسین کے بعد کب طبی مشورہ لازمی ہے؟","positive_id":"p0008","source":"synthetic_v2"} 
+{"synthetic_id":"s481","query":"WHO کی رہنمائی میں کن شعبوں پر زور ہوتا ہے؟","positive_id":"p0009","source":"synthetic_v2"} 
+{"synthetic_id":"s482","query":"نئے ویرینٹس کی شناخت کے بعد کن اقدامات کی ضرورت ہوتی ہے؟","positive_id":"p0010","source":"synthetic_v2"} 
+{"synthetic_id":"s483","query":"بوسٹر خوراک کے لیے کن طبی معیارات کو دیکھا جاتا ہے؟","positive_id":"p0011","source":"synthetic_v2"} 
+{"synthetic_id":"s484","query":"ہسپتال میں مریض کی وینٹیلیشن کی ضرورت کیسے طے کی جاتی ہے؟","positive_id":"p0012","source":"synthetic_v2"} 
+{"synthetic_id":"s485","query":"اینٹی وائرل ادویات کے ضمنی اثرات کی رپورٹنگ کیسے کریں؟","positive_id":"p0013","source":"synthetic_v2"} 
+{"synthetic_id":"s486","query":"قرنطینہ کے دوران گھر میں صفائی کے بہترین طریقے کیا ہیں؟","positive_id":"p0015","source":"synthetic_v2"} 
+{"synthetic_id":"s487","query":"آن لائن تعلیم کے لیے اساتذہ کو کون سی تربیت درکار ہے؟","positive_id":"p0016","source":"synthetic_v2"} 
+{"synthetic_id":"s488","query":"وبا کے دوران ذہنی صحت کے لیے کون سی کمیونٹی پروگرامز مفید ہیں؟","positive_id":"p0017","source":"synthetic_v2"} 
+{"synthetic_id":"s489","query":"اینٹیجن ٹیسٹ کب دوبارہ کروائیں؟","positive_id":"p0018","source":"synthetic_v2"} 
+{"synthetic_id":"s490","query":"خطرہ والے گروپس کے لیے ویکسین کی ترجیحی پالیسیاں کیا ہیں؟","positive_id":"p0019","source":"synthetic_v2"} 
+{"synthetic_id":"s491","query":"وینٹیلیشن بہتر بنانے کے لیے سادہ آلات کون سے ہیں؟","positive_id":"p0020","source":"synthetic_v2"} 
+{"synthetic_id":"s492","query":"Long COVID کے مریضوں کے لیے کون سی ریسرچ جاری ہے؟","positive_id":"p0021","source":"synthetic_v2"} 
+{"synthetic_id":"s493","query":"ویکسین اسٹوریج میں ٹریکنگ کیسے کریں؟","positive_id":"p0022","source":"synthetic_v2"} 
+{"synthetic_id":"s494","query":"حاملہ خواتین کے لیے ویکسین کے ممکنہ خطرات کیا ہیں؟","positive_id":"p0023","source":"synthetic_v2"} 
+{"synthetic_id":"s495","query":"بچوں کے لیے ویکسین کی خوراکیں کس طرح مختلف ہوتی ہیں؟","positive_id":"p0024","source":"synthetic_v2"} 
+{"synthetic_id":"s496","query":"ویکسین منظوری کے بعد مانیٹرنگ کیسے کی جاتی ہے؟","positive_id":"p0025","source":"synthetic_v2"} 
+{"synthetic_id":"s497","query":"غلط معلومات کے خلاف مقامی سطح پر کیا اقدامات کیے جا سکتے ہیں؟","positive_id":"p0026","source":"synthetic_v2"} 
+{"synthetic_id":"s498","query":"ٹیسٹنگ اور ٹریسنگ کے لیے کمیونٹی شراکت داری کیسے بنائیں؟","positive_id":"p0027","source":"synthetic_v2"} 
+{"synthetic_id":"s499","query":"کھانسی کے دوران حفاظتی اقدامات کیا کریں؟","positive_id":"p0028","source":"synthetic_v2"} 
+{"synthetic_id":"s500","query":"N95 ماسک کی مناسب دیکھ بھال کیسے کریں؟","positive_id":"p0029","source":"synthetic_v2"}
